@@ -1,7 +1,7 @@
 # HR Analytics — Employee Attrition Analysis 👥📊
 
 End-to-end data cleaning and visualization project using Python and pandas.
-Worked with Huge data and performed EDA
+Analysed 1,470 IBM employee records to identify key factors driving employee attrition.
 
 ## What I did
 - Analysed 1,470 IBM Employees data
@@ -25,13 +25,14 @@ Worked with Huge data and performed EDA
 
 ## Business Recommendatoion
 
-1. We should re check the salary amount for employees who are doing overtime
-2. communicate with the young employees so that we could get to know more about why employees are leaving, and it makes better bonding
-3. Talk with manger and employees under Sales representative role to know why their is higest attrition rate
+1. We should re-check the salary amount for employees who are doing overtime
+2. Communicate with the young employees so that we could get to know more about why employees are leaving, and it makes better bonding
+3. Talk with manger and employees under Sales representative role,
+    to know why their is higest attrition rate
    
 
 ## Project Structure
-
+```
 hr-analytics-attrition/
 ├── notebooks/
 │   ├── 01_loading_and_profiling.ipynb
@@ -40,6 +41,8 @@ hr-analytics-attrition/
 │   └── 04_summary_recommendations.ipynb
 ├── images/
 └── README.md
+...
+```
 
 ## Tools Used
 - Python, pandas, numpy, matplotlib, seaborn, Jupyter Notebook
