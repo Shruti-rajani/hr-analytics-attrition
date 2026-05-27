@@ -1,7 +1,7 @@
 # HR Analytics — Employee Attrition Analysis 👥📊
 
 End-to-end data cleaning and visualization project using Python and pandas.
-Transformed a messy hr-analytics dataset into clean, analysable data.
+Worked with Huge data and performed EDA
 
 ## What I did
 - Analysed 1,470 IBM Employees data
