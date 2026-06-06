@@ -4,7 +4,7 @@ End-to-end data cleaning and visualization project using Python and pandas.
 Analysed 1,470 IBM employee records to identify key factors driving employee attrition.
 
 ## What I did
-- Analysed 1,470 IBM Employees data
+- Analysed 1,470 IBM Employees data 
 - built meaning full visual insights
 - Extracted business insights from clean data
 - Gave meaningfull business recommendation
